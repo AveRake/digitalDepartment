@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(100deg, black, darkblue);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    border: 7px solid black;
+}
+
+h1 {
+    color: snow;
+    font-size: 2.1em;
+    display: inline;
+    padding: 54px;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-left: 480px;
+}
+
+h3 {
+    font-size: 2.5em;
+    margin-left: 560px;
+}
+
+main {
+    background-color: darkgray;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 5em;
+    color: black;
+    padding: 370px;
+}
+
+p {
+    font-size: 2em;
+}
+
+.img1 {
+    margin-top: 28px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-repeat: no-repeat;
+}
+
+.img2 {
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.img3 {
+    margin-left: 90px;
+}
+
+.img4 {
+    margin-left: 290px;
+}
