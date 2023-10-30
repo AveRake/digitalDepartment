@@ -1,0 +1,92 @@
+body {
+    background: linear-gradient(90deg, darkblue, red);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    border: 7px solid black;
+}
+
+h1 {
+    color: snow;
+    font-size: 2.1em;
+    display: inline;
+    margin-right: 0;
+    margin-left: 5%;
+}
+
+h2 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+
+h3 {
+    font-size: 5em;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: black;
+}
+
+h4 {
+    color: black;
+    font-size: 2.1em;
+    margin-right: 0;
+    margin-left: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1:hover {
+    color: navy;
+}
+
+main {
+    background-color: rgba(169, 169, 169, 0.5);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    border: 10px solid black;
+    box-shadow: 3px 3px darkblue, -1em 0 .4em red;
+}
+
+p {
+    font-size: 2em;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+.img1 {
+    text-align: left;
+    display: inline;
+    margin-left: 7%;
+}
+
+.img2 {
+    text-align: right;
+    display: inline;
+}
+
+.img3 {
+    text-align: center;
+}
+
+.img11 {
+    text-align: left;
+    display: inline;
+    margin-left: 5%;
+}
+
+.img22 {
+    text-align: right;
+    display: inline;
+}
