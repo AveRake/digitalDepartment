@@ -134,3 +134,33 @@ p {
     text-align: center;
     margin-top: 10%;
 }
+
+table {
+    width: 95%;
+    table-layout: fixed;
+    margin-left: 2.5%;
+    border: 3px solid black;
+    font-size: 3em;
+    border-collapse: collapse;
+    margin-bottom: 2.5%;
+    color: snow;
+}
+
+tr {
+    border: 3px solid black;
+    background-color: #0b0f2d;
+}
+
+td {
+    border: 2px solid black;
+    padding: 1%;
+    text-align: left;
+}
+
+.tr1 {
+    font-size: 1.5em;
+    background-color: black;
+}
+
+tr:hover {background-color: red;}
+
